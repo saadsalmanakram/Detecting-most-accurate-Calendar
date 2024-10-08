@@ -1,2 +1,2 @@
 # Detecting-most-accurate-Calendar
-Project Built using MERN Stack
+Project Built using Fastapi Stack. Cassandra used as Database
